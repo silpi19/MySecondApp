@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MySecondApp</string>
+    <string name="Button_name">Click here</string>
+    <string name="txt_name">Enter user name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="f1">fragment1</string>
+    <string name="f2">fragment2</string>
+    <string name="ff">Hello Fragment One</string>
+    <string name="btn_save">Click for saving the value using the shared preference</string>
+
+
+</resources>
